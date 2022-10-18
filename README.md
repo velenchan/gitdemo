@@ -1,3 +1,6 @@
+
+This is taken from [the lecture][1]
+
 - git add hello.txt
 
 - git commit -m "add hello.txt"
@@ -33,3 +36,5 @@
 - git stash
 
 - git bisect
+
+[1]: https://missing.csail.mit.edu/2020/version-control/
